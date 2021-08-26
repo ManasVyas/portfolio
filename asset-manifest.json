@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b577aa32.chunk.css",
-    "main.js": "/portfolio/static/js/main.45900312.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.45900312.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.6d4aa88d.chunk.css",
+    "main.js": "/portfolio/static/js/main.6832757d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6832757d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.3022749d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.3022749d.js.map",
     "static/js/2.5ec95379.chunk.js": "/portfolio/static/js/2.5ec95379.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0a28d8b9.chunk.js": "/portfolio/static/js/3.0a28d8b9.chunk.js",
     "static/js/3.0a28d8b9.chunk.js.map": "/portfolio/static/js/3.0a28d8b9.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.b577aa32.chunk.css.map": "/portfolio/static/css/main.b577aa32.chunk.css.map",
+    "static/css/main.6d4aa88d.chunk.css.map": "/portfolio/static/css/main.6d4aa88d.chunk.css.map",
     "static/js/2.5ec95379.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5ec95379.chunk.js.LICENSE.txt",
     "static/media/PostgreSQL_Cheat_Sheet.32780cd2.pdf": "/portfolio/static/media/PostgreSQL_Cheat_Sheet.32780cd2.pdf",
     "static/media/bForBurger_Home.ecff0db2.PNG": "/portfolio/static/media/bForBurger_Home.ecff0db2.PNG",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.3022749d.js",
     "static/js/2.5ec95379.chunk.js",
-    "static/css/main.b577aa32.chunk.css",
-    "static/js/main.45900312.chunk.js"
+    "static/css/main.6d4aa88d.chunk.css",
+    "static/js/main.6832757d.chunk.js"
   ]
 }
