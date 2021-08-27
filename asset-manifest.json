@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.303f7f5f.chunk.css",
-    "main.js": "/portfolio/static/js/main.99ff0435.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.99ff0435.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a367fac5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a367fac5.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.3022749d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.3022749d.js.map",
     "static/js/2.5ec95379.chunk.js": "/portfolio/static/js/2.5ec95379.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.303f7f5f.chunk.css.map": "/portfolio/static/css/main.303f7f5f.chunk.css.map",
     "static/js/2.5ec95379.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5ec95379.chunk.js.LICENSE.txt",
-    "static/media/PostgreSQL_Cheat_Sheet.32780cd2.pdf": "/portfolio/static/media/PostgreSQL_Cheat_Sheet.32780cd2.pdf",
+    "static/media/Manas_Vyas_Resume.35dc9d63.pdf": "/portfolio/static/media/Manas_Vyas_Resume.35dc9d63.pdf",
     "static/media/bForBurger_Home.ecff0db2.PNG": "/portfolio/static/media/bForBurger_Home.ecff0db2.PNG",
     "static/media/bootstrap.91aad92a.svg": "/portfolio/static/media/bootstrap.91aad92a.svg",
     "static/media/css3.3ec32022.svg": "/portfolio/static/media/css3.3ec32022.svg",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.3022749d.js",
     "static/js/2.5ec95379.chunk.js",
     "static/css/main.303f7f5f.chunk.css",
-    "static/js/main.99ff0435.chunk.js"
+    "static/js/main.a367fac5.chunk.js"
   ]
 }
